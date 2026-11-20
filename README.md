@@ -28,7 +28,7 @@ Planned: Edit mode, Quick Look for every other file type, Windows.
 ## Install
 
 Download `sudopen-<version>.dmg` from
-[Releases](https://github.com/SudoRender/sudopen/releases), open it and drag
+[Releases](https://github.com/PixelSorterStudio/sudopen/releases), open it and drag
 sudopen into Applications. On first launch it offers to install the
 `sudopen` command. macOS 13 or later, Apple Silicon or Intel.
 
